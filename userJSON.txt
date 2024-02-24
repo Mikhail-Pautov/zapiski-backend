@@ -1,0 +1,30 @@
+//пользователь один
+{
+  "email": "test@mail2.ru",
+  "password": "test123",
+  "fullName": "Psina",
+  "avatarUrl": "https://google.com"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWMyMzlkM2E2MTgzMzViMmI4OGU5NzkiLCJpYXQiOjE3MDcyMjc2MDMsImV4cCI6MTcwOTgxOTYwM30.UMjmTl2mDVv7MdwwU4zT1rPF8Y2MlzVPhuc0MBwD56A
+
+
+//второй пользователь
+{
+  "email": "svin@mail.ru",
+  "password": "svin1234",
+  "fullName": "Svin",
+  "avatarUrl": "https://google.com"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWM3NjBhN2JlNTM5Y2JiNTdhNjgyMzUiLCJpYXQiOjE3MDc1NjUyMjMsImV4cCI6MTcxMDE1NzIyM30.8KsCMjbCJRlsuRQ8PUMEHIaAguzYYx6wRI-V26DFiDY
+
+
+
+
+{
+  "title": "Теустовая статья",
+  "text": "Какойто интересный текст про свиней",
+  "tegs": ["svin", "pes", "tok"]
+}
