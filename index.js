@@ -11,7 +11,7 @@ import { checkAuth,  handleValidationErrors } from './utils/index.js';
 import { PostController, UserController, TrashController} from './controllers/index.js';
 import { getAllinTrash, addInTrash, removeAll } from './controllers/TrashController.js';
 
-//тут
+mongoose.connect(`mongodb+srv://${MONGO_INITDB_ROOT_USERNAME}:${MONGO_INITDB_ROOT_USERNAME}@cluster0.swd4irf.mongodb.net/blog?retryWrites=true&w=majority`)
    .then(() => console.log('DB ok'))
    .catch((err) => console.log('DB error', err))
 
